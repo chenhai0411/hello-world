@@ -1,6 +1,6 @@
 # hello-world
-the exercise project of learning github
 
+just a exercise
 
 hi there 
 I am starting 
